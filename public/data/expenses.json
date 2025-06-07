@@ -1,0 +1,802 @@
+[
+  {
+    "id": 0,
+    "title": "Kabel HDMI",
+    "amount": 220.57,
+    "category": "Elektronika",
+    "date": "2024-06-01",
+    "description": "Zakup kabla HDMI."
+  },
+  {
+    "id": 1,
+    "title": "Przejazd Uberem",
+    "amount": 150.76,
+    "category": "Transport",
+    "date": "2024-01-24",
+    "description": "Podróż Uberem."
+  },
+  {
+    "id": 2,
+    "title": "Opłata za wodę",
+    "amount": 214.2,
+    "category": "Rachunki",
+    "date": "2024-05-31",
+    "description": "Dwumiesięczny rachunek za wodę."
+  },
+  {
+    "id": 3,
+    "title": "Zakup gry",
+    "amount": 142.13,
+    "category": "Rozrywka",
+    "date": "2024-05-30",
+    "description": "Nowa gra komputerowa."
+  },
+  {
+    "id": 4,
+    "title": "Ładowarka USB-C",
+    "amount": 226.63,
+    "category": "Elektronika",
+    "date": "2024-02-09",
+    "description": "Nowa ładowarka."
+  },
+  {
+    "id": 5,
+    "title": "Tankowanie",
+    "amount": 204.93,
+    "category": "Transport",
+    "date": "2024-01-04",
+    "description": "Paliwo na stacji benzynowej."
+  },
+  {
+    "id": 6,
+    "title": "Przejazd Uberem",
+    "amount": 216.57,
+    "category": "Transport",
+    "date": "2024-01-30",
+    "description": "Podróż Uberem."
+  },
+  {
+    "id": 7,
+    "title": "Zakup słuchawek",
+    "amount": 172.65,
+    "category": "Elektronika",
+    "date": "2024-02-01",
+    "description": "Bezprzewodowe słuchawki."
+  },
+  {
+    "id": 8,
+    "title": "Tankowanie",
+    "amount": 21.37,
+    "category": "Transport",
+    "date": "2024-04-02",
+    "description": "Paliwo na stacji benzynowej."
+  },
+  {
+    "id": 9,
+    "title": "Bilet do kina",
+    "amount": 64.8,
+    "category": "Rozrywka",
+    "date": "2024-02-23",
+    "description": "Seans filmowy."
+  },
+  {
+    "id": 10,
+    "title": "Opłata za prąd",
+    "amount": 113.64,
+    "category": "Rachunki",
+    "date": "2024-01-30",
+    "description": "Miesięczny rachunek za prąd."
+  },
+  {
+    "id": 11,
+    "title": "Bilet komunikacji miejskiej",
+    "amount": 214.76,
+    "category": "Transport",
+    "date": "2024-01-23",
+    "description": "Bilet jednorazowy."
+  },
+  {
+    "id": 12,
+    "title": "Bilet komunikacji miejskiej",
+    "amount": 222.62,
+    "category": "Transport",
+    "date": "2024-05-20",
+    "description": "Bilet jednorazowy."
+  },
+  {
+    "id": 13,
+    "title": "Ładowarka USB-C",
+    "amount": 243.53,
+    "category": "Elektronika",
+    "date": "2024-01-07",
+    "description": "Nowa ładowarka."
+  },
+  {
+    "id": 14,
+    "title": "Kawa na wynos",
+    "amount": 228.46,
+    "category": "Jedzenie",
+    "date": "2024-03-10",
+    "description": "Poranna kawa z kawiarni."
+  },
+  {
+    "id": 15,
+    "title": "Bilet komunikacji miejskiej",
+    "amount": 95.88,
+    "category": "Transport",
+    "date": "2024-06-10",
+    "description": "Bilet jednorazowy."
+  },
+  {
+    "id": 16,
+    "title": "Bilet komunikacji miejskiej",
+    "amount": 46.43,
+    "category": "Transport",
+    "date": "2024-04-13",
+    "description": "Bilet jednorazowy."
+  },
+  {
+    "id": 17,
+    "title": "Przejazd Uberem",
+    "amount": 64.46,
+    "category": "Transport",
+    "date": "2024-05-06",
+    "description": "Podróż Uberem."
+  },
+  {
+    "id": 18,
+    "title": "Kabel HDMI",
+    "amount": 104.41,
+    "category": "Elektronika",
+    "date": "2024-02-03",
+    "description": "Zakup kabla HDMI."
+  },
+  {
+    "id": 19,
+    "title": "Ładowarka USB-C",
+    "amount": 100.07,
+    "category": "Elektronika",
+    "date": "2024-03-25",
+    "description": "Nowa ładowarka."
+  },
+  {
+    "id": 20,
+    "title": "Bilet do kina",
+    "amount": 249.98,
+    "category": "Rozrywka",
+    "date": "2024-05-15",
+    "description": "Seans filmowy."
+  },
+  {
+    "id": 21,
+    "title": "Zakup gry",
+    "amount": 169.33,
+    "category": "Rozrywka",
+    "date": "2024-01-20",
+    "description": "Nowa gra komputerowa."
+  },
+  {
+    "id": 22,
+    "title": "Ładowarka USB-C",
+    "amount": 169.77,
+    "category": "Elektronika",
+    "date": "2024-02-03",
+    "description": "Nowa ładowarka."
+  },
+  {
+    "id": 23,
+    "title": "Zakup gry",
+    "amount": 160.72,
+    "category": "Rozrywka",
+    "date": "2024-04-05",
+    "description": "Nowa gra komputerowa."
+  },
+  {
+    "id": 24,
+    "title": "Tankowanie",
+    "amount": 209.74,
+    "category": "Transport",
+    "date": "2024-06-23",
+    "description": "Paliwo na stacji benzynowej."
+  },
+  {
+    "id": 25,
+    "title": "Kabel HDMI",
+    "amount": 110.52,
+    "category": "Elektronika",
+    "date": "2024-03-08",
+    "description": "Zakup kabla HDMI."
+  },
+  {
+    "id": 26,
+    "title": "Opłata za internet",
+    "amount": 161.63,
+    "category": "Rachunki",
+    "date": "2024-02-05",
+    "description": "Miesięczny rachunek za internet."
+  },
+  {
+    "id": 27,
+    "title": "Ładowarka USB-C",
+    "amount": 37.78,
+    "category": "Elektronika",
+    "date": "2024-03-17",
+    "description": "Nowa ładowarka."
+  },
+  {
+    "id": 28,
+    "title": "Przejazd Uberem",
+    "amount": 299.87,
+    "category": "Transport",
+    "date": "2024-06-13",
+    "description": "Podróż Uberem."
+  },
+  {
+    "id": 29,
+    "title": "Tankowanie",
+    "amount": 17.9,
+    "category": "Transport",
+    "date": "2024-03-03",
+    "description": "Paliwo na stacji benzynowej."
+  },
+  {
+    "id": 30,
+    "title": "Ładowarka USB-C",
+    "amount": 93.03,
+    "category": "Elektronika",
+    "date": "2024-01-21",
+    "description": "Nowa ładowarka."
+  },
+  {
+    "id": 31,
+    "title": "Lunch na mieście",
+    "amount": 239.64,
+    "category": "Jedzenie",
+    "date": "2024-01-29",
+    "description": "Obiad w restauracji."
+  },
+  {
+    "id": 32,
+    "title": "Lunch na mieście",
+    "amount": 196.28,
+    "category": "Jedzenie",
+    "date": "2024-05-21",
+    "description": "Obiad w restauracji."
+  },
+  {
+    "id": 33,
+    "title": "Zakupy spożywcze",
+    "amount": 239.2,
+    "category": "Jedzenie",
+    "date": "2024-01-31",
+    "description": "Zakup produktów spożywczych w sklepie."
+  },
+  {
+    "id": 34,
+    "title": "Przejazd Uberem",
+    "amount": 109.77,
+    "category": "Transport",
+    "date": "2024-01-03",
+    "description": "Podróż Uberem."
+  },
+  {
+    "id": 35,
+    "title": "Lunch na mieście",
+    "amount": 207.93,
+    "category": "Jedzenie",
+    "date": "2024-03-03",
+    "description": "Obiad w restauracji."
+  },
+  {
+    "id": 36,
+    "title": "Opłata za prąd",
+    "amount": 120.31,
+    "category": "Rachunki",
+    "date": "2024-06-04",
+    "description": "Miesięczny rachunek za prąd."
+  },
+  {
+    "id": 37,
+    "title": "Abonament Netflix",
+    "amount": 174.43,
+    "category": "Rozrywka",
+    "date": "2024-04-02",
+    "description": "Miesięczna subskrypcja Netflix."
+  },
+  {
+    "id": 38,
+    "title": "Kawa na wynos",
+    "amount": 21.65,
+    "category": "Jedzenie",
+    "date": "2024-04-03",
+    "description": "Poranna kawa z kawiarni."
+  },
+  {
+    "id": 39,
+    "title": "Abonament Netflix",
+    "amount": 248.45,
+    "category": "Rozrywka",
+    "date": "2024-02-16",
+    "description": "Miesięczna subskrypcja Netflix."
+  },
+  {
+    "id": 40,
+    "title": "Przejazd Uberem",
+    "amount": 54.77,
+    "category": "Transport",
+    "date": "2024-03-08",
+    "description": "Podróż Uberem."
+  },
+  {
+    "id": 41,
+    "title": "Opłata za wodę",
+    "amount": 154.25,
+    "category": "Rachunki",
+    "date": "2024-01-16",
+    "description": "Dwumiesięczny rachunek za wodę."
+  },
+  {
+    "id": 42,
+    "title": "Bilet komunikacji miejskiej",
+    "amount": 220.24,
+    "category": "Transport",
+    "date": "2024-03-06",
+    "description": "Bilet jednorazowy."
+  },
+  {
+    "id": 43,
+    "title": "Opłata za prąd",
+    "amount": 204.37,
+    "category": "Rachunki",
+    "date": "2024-03-09",
+    "description": "Miesięczny rachunek za prąd."
+  },
+  {
+    "id": 44,
+    "title": "Przejazd Uberem",
+    "amount": 238.18,
+    "category": "Transport",
+    "date": "2024-05-26",
+    "description": "Podróż Uberem."
+  },
+  {
+    "id": 45,
+    "title": "Zakup słuchawek",
+    "amount": 16.71,
+    "category": "Elektronika",
+    "date": "2024-01-25",
+    "description": "Bezprzewodowe słuchawki."
+  },
+  {
+    "id": 46,
+    "title": "Opłata za prąd",
+    "amount": 149.05,
+    "category": "Rachunki",
+    "date": "2024-03-17",
+    "description": "Miesięczny rachunek za prąd."
+  },
+  {
+    "id": 47,
+    "title": "Kawa na wynos",
+    "amount": 85.38,
+    "category": "Jedzenie",
+    "date": "2024-05-12",
+    "description": "Poranna kawa z kawiarni."
+  },
+  {
+    "id": 48,
+    "title": "Lunch na mieście",
+    "amount": 179.93,
+    "category": "Jedzenie",
+    "date": "2024-06-01",
+    "description": "Obiad w restauracji."
+  },
+  {
+    "id": 49,
+    "title": "Przejazd Uberem",
+    "amount": 198.68,
+    "category": "Transport",
+    "date": "2024-04-23",
+    "description": "Podróż Uberem."
+  },
+  {
+    "id": 50,
+    "title": "Kabel HDMI",
+    "amount": 227.65,
+    "category": "Elektronika",
+    "date": "2024-06-05",
+    "description": "Zakup kabla HDMI."
+  },
+  {
+    "id": 51,
+    "title": "Opłata za wodę",
+    "amount": 103.05,
+    "category": "Rachunki",
+    "date": "2024-05-07",
+    "description": "Dwumiesięczny rachunek za wodę."
+  },
+  {
+    "id": 52,
+    "title": "Opłata za wodę",
+    "amount": 269.25,
+    "category": "Rachunki",
+    "date": "2024-02-15",
+    "description": "Dwumiesięczny rachunek za wodę."
+  },
+  {
+    "id": 53,
+    "title": "Tankowanie",
+    "amount": 282.23,
+    "category": "Transport",
+    "date": "2024-06-18",
+    "description": "Paliwo na stacji benzynowej."
+  },
+  {
+    "id": 54,
+    "title": "Opłata za wodę",
+    "amount": 239.54,
+    "category": "Rachunki",
+    "date": "2024-01-01",
+    "description": "Dwumiesięczny rachunek za wodę."
+  },
+  {
+    "id": 55,
+    "title": "Zakup gry",
+    "amount": 71.59,
+    "category": "Rozrywka",
+    "date": "2024-03-03",
+    "description": "Nowa gra komputerowa."
+  },
+  {
+    "id": 56,
+    "title": "Zakupy spożywcze",
+    "amount": 36.37,
+    "category": "Jedzenie",
+    "date": "2024-03-20",
+    "description": "Zakup produktów spożywczych w sklepie."
+  },
+  {
+    "id": 57,
+    "title": "Zakup gry",
+    "amount": 132.01,
+    "category": "Rozrywka",
+    "date": "2024-05-29",
+    "description": "Nowa gra komputerowa."
+  },
+  {
+    "id": 58,
+    "title": "Przejazd Uberem",
+    "amount": 55.3,
+    "category": "Transport",
+    "date": "2024-02-05",
+    "description": "Podróż Uberem."
+  },
+  {
+    "id": 59,
+    "title": "Lunch na mieście",
+    "amount": 221.12,
+    "category": "Jedzenie",
+    "date": "2024-05-18",
+    "description": "Obiad w restauracji."
+  },
+  {
+    "id": 60,
+    "title": "Zakupy spożywcze",
+    "amount": 44.32,
+    "category": "Jedzenie",
+    "date": "2024-06-06",
+    "description": "Zakup produktów spożywczych w sklepie."
+  },
+  {
+    "id": 61,
+    "title": "Opłata za internet",
+    "amount": 76.0,
+    "category": "Rachunki",
+    "date": "2024-02-28",
+    "description": "Miesięczny rachunek za internet."
+  },
+  {
+    "id": 62,
+    "title": "Kabel HDMI",
+    "amount": 116.5,
+    "category": "Elektronika",
+    "date": "2024-05-01",
+    "description": "Zakup kabla HDMI."
+  },
+  {
+    "id": 63,
+    "title": "Ładowarka USB-C",
+    "amount": 129.47,
+    "category": "Elektronika",
+    "date": "2024-05-27",
+    "description": "Nowa ładowarka."
+  },
+  {
+    "id": 64,
+    "title": "Zakup gry",
+    "amount": 206.8,
+    "category": "Rozrywka",
+    "date": "2024-02-20",
+    "description": "Nowa gra komputerowa."
+  },
+  {
+    "id": 65,
+    "title": "Opłata za wodę",
+    "amount": 253.09,
+    "category": "Rachunki",
+    "date": "2024-06-20",
+    "description": "Dwumiesięczny rachunek za wodę."
+  },
+  {
+    "id": 66,
+    "title": "Opłata za wodę",
+    "amount": 116.99,
+    "category": "Rachunki",
+    "date": "2024-02-26",
+    "description": "Dwumiesięczny rachunek za wodę."
+  },
+  {
+    "id": 67,
+    "title": "Lunch na mieście",
+    "amount": 116.69,
+    "category": "Jedzenie",
+    "date": "2024-02-21",
+    "description": "Obiad w restauracji."
+  },
+  {
+    "id": 68,
+    "title": "Opłata za wodę",
+    "amount": 87.26,
+    "category": "Rachunki",
+    "date": "2024-05-12",
+    "description": "Dwumiesięczny rachunek za wodę."
+  },
+  {
+    "id": 69,
+    "title": "Abonament Netflix",
+    "amount": 124.04,
+    "category": "Rozrywka",
+    "date": "2024-06-18",
+    "description": "Miesięczna subskrypcja Netflix."
+  },
+  {
+    "id": 70,
+    "title": "Opłata za wodę",
+    "amount": 129.46,
+    "category": "Rachunki",
+    "date": "2024-03-19",
+    "description": "Dwumiesięczny rachunek za wodę."
+  },
+  {
+    "id": 71,
+    "title": "Ładowarka USB-C",
+    "amount": 39.27,
+    "category": "Elektronika",
+    "date": "2024-03-18",
+    "description": "Nowa ładowarka."
+  },
+  {
+    "id": 72,
+    "title": "Zakup słuchawek",
+    "amount": 123.51,
+    "category": "Elektronika",
+    "date": "2024-03-28",
+    "description": "Bezprzewodowe słuchawki."
+  },
+  {
+    "id": 73,
+    "title": "Zakup gry",
+    "amount": 166.44,
+    "category": "Rozrywka",
+    "date": "2024-05-18",
+    "description": "Nowa gra komputerowa."
+  },
+  {
+    "id": 74,
+    "title": "Zakup słuchawek",
+    "amount": 164.74,
+    "category": "Elektronika",
+    "date": "2024-02-29",
+    "description": "Bezprzewodowe słuchawki."
+  },
+  {
+    "id": 75,
+    "title": "Zakup słuchawek",
+    "amount": 129.39,
+    "category": "Elektronika",
+    "date": "2024-04-27",
+    "description": "Bezprzewodowe słuchawki."
+  },
+  {
+    "id": 76,
+    "title": "Zakup gry",
+    "amount": 131.48,
+    "category": "Rozrywka",
+    "date": "2024-06-03",
+    "description": "Nowa gra komputerowa."
+  },
+  {
+    "id": 77,
+    "title": "Tankowanie",
+    "amount": 241.97,
+    "category": "Transport",
+    "date": "2024-06-18",
+    "description": "Paliwo na stacji benzynowej."
+  },
+  {
+    "id": 78,
+    "title": "Bilet do kina",
+    "amount": 15.25,
+    "category": "Rozrywka",
+    "date": "2024-04-17",
+    "description": "Seans filmowy."
+  },
+  {
+    "id": 79,
+    "title": "Zakup słuchawek",
+    "amount": 99.32,
+    "category": "Elektronika",
+    "date": "2024-05-11",
+    "description": "Bezprzewodowe słuchawki."
+  },
+  {
+    "id": 80,
+    "title": "Kabel HDMI",
+    "amount": 132.58,
+    "category": "Elektronika",
+    "date": "2024-01-15",
+    "description": "Zakup kabla HDMI."
+  },
+  {
+    "id": 81,
+    "title": "Abonament Netflix",
+    "amount": 22.59,
+    "category": "Rozrywka",
+    "date": "2024-01-21",
+    "description": "Miesięczna subskrypcja Netflix."
+  },
+  {
+    "id": 82,
+    "title": "Opłata za internet",
+    "amount": 14.21,
+    "category": "Rachunki",
+    "date": "2024-02-25",
+    "description": "Miesięczny rachunek za internet."
+  },
+  {
+    "id": 83,
+    "title": "Przejazd Uberem",
+    "amount": 235.78,
+    "category": "Transport",
+    "date": "2024-06-16",
+    "description": "Podróż Uberem."
+  },
+  {
+    "id": 84,
+    "title": "Bilet do kina",
+    "amount": 202.74,
+    "category": "Rozrywka",
+    "date": "2024-03-30",
+    "description": "Seans filmowy."
+  },
+  {
+    "id": 85,
+    "title": "Opłata za internet",
+    "amount": 240.73,
+    "category": "Rachunki",
+    "date": "2024-01-01",
+    "description": "Miesięczny rachunek za internet."
+  },
+  {
+    "id": 86,
+    "title": "Zakup słuchawek",
+    "amount": 281.25,
+    "category": "Elektronika",
+    "date": "2024-02-07",
+    "description": "Bezprzewodowe słuchawki."
+  },
+  {
+    "id": 87,
+    "title": "Kabel HDMI",
+    "amount": 297.48,
+    "category": "Elektronika",
+    "date": "2024-05-13",
+    "description": "Zakup kabla HDMI."
+  },
+  {
+    "id": 88,
+    "title": "Ładowarka USB-C",
+    "amount": 93.27,
+    "category": "Elektronika",
+    "date": "2024-02-13",
+    "description": "Nowa ładowarka."
+  },
+  {
+    "id": 89,
+    "title": "Zakup gry",
+    "amount": 144.18,
+    "category": "Rozrywka",
+    "date": "2024-04-06",
+    "description": "Nowa gra komputerowa."
+  },
+  {
+    "id": 90,
+    "title": "Abonament Netflix",
+    "amount": 245.18,
+    "category": "Rozrywka",
+    "date": "2024-03-22",
+    "description": "Miesięczna subskrypcja Netflix."
+  },
+  {
+    "id": 91,
+    "title": "Bilet do kina",
+    "amount": 144.6,
+    "category": "Rozrywka",
+    "date": "2024-04-25",
+    "description": "Seans filmowy."
+  },
+  {
+    "id": 92,
+    "title": "Tankowanie",
+    "amount": 255.81,
+    "category": "Transport",
+    "date": "2024-02-03",
+    "description": "Paliwo na stacji benzynowej."
+  },
+  {
+    "id": 93,
+    "title": "Lunch na mieście",
+    "amount": 79.21,
+    "category": "Jedzenie",
+    "date": "2024-05-13",
+    "description": "Obiad w restauracji."
+  },
+  {
+    "id": 94,
+    "title": "Opłata za prąd",
+    "amount": 12.25,
+    "category": "Rachunki",
+    "date": "2024-04-17",
+    "description": "Miesięczny rachunek za prąd."
+  },
+  {
+    "id": 95,
+    "title": "Kawa na wynos",
+    "amount": 96.32,
+    "category": "Jedzenie",
+    "date": "2024-06-20",
+    "description": "Poranna kawa z kawiarni."
+  },
+  {
+    "id": 96,
+    "title": "Opłata za internet",
+    "amount": 14.12,
+    "category": "Rachunki",
+    "date": "2024-03-05",
+    "description": "Miesięczny rachunek za internet."
+  },
+  {
+    "id": 97,
+    "title": "Ładowarka USB-C",
+    "amount": 117.0,
+    "category": "Elektronika",
+    "date": "2024-03-15",
+    "description": "Nowa ładowarka."
+  },
+  {
+    "id": 98,
+    "title": "Przejazd Uberem",
+    "amount": 213.03,
+    "category": "Transport",
+    "date": "2024-02-14",
+    "description": "Podróż Uberem."
+  },
+  {
+    "id": 99,
+    "title": "Ładowarka USB-C",
+    "amount": 211.55,
+    "category": "Elektronika",
+    "date": "2024-06-21",
+    "description": "Nowa ładowarka."
+  }
+]
